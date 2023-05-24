@@ -1,4 +1,4 @@
-Project done as part of the course DATA201, Fall 2022, Tufts University.
+Project done as part of the course DATA201 (Introduction to Python and Machine Learning), Fall 2022, Tufts University.
 
 Collaborators: Arie Itzhacki and Veer K. Kumar
 
